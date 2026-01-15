@@ -3,7 +3,6 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-junior-developer/)
 
-
 ![Daniel' s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan1elJr&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1elJr&layout=donut-vertical)](https://github.com/Dan1elJr/github-readme-stats)
