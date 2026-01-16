@@ -5,7 +5,7 @@
 
 ![Daniel' s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan1elJr&show_icons=true&theme=tokyonight)
 
-[![Top Langs](github-readme-stats.vercel.app)](https://github.com/Dan1elJr/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1elJr&layout=compact&theme=dracula)
 
 ##  Tecnologias que eu uso no meu dia-a-dia
 
