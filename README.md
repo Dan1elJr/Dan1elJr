@@ -3,10 +3,6 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-junior-developer/)
 
-![Daniel' s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan1elJr&show_icons=true&theme=tokyonight)
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1elJr&layout=compact&theme=dracula)
-
 ##  Tecnologias que eu uso no meu dia-a-dia
 
 <div style="display: inline_block"><br/>
