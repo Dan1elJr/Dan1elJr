@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Daniel Junior! 🖐️
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/daniel-silva-junior/]
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/daniel-silva-junior/)
 
 ##  Tecnologias que eu uso no meu dia-a-dia
 
