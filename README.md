@@ -14,7 +14,7 @@
     <img align="center alt="mysql" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center alt="postgresql" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center alt="mongodb" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center alt="react" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+    <img align="center alt="react" src ="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
     
 </div>
  
